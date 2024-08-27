@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tanmoyB24
+- 👋 Hi, I’m Tanmoy Bhowmik
 - 👀 I’m interested in Astrophysics, High Energy Physics
 
 <!---
