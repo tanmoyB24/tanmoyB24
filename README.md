@@ -1,5 +1,7 @@
 - 👋 Hi, I’m Tanmoy Bhowmik
 - 👀 I’m interested in Astrophysics and High Energy Particle Physics
+- ![Astronomy](https://img.shields.io/badge/field-astronomy-darkblue)
+
 
 <!---
 tanmoyB24/tanmoyB24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
